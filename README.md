@@ -40,7 +40,7 @@ System.out.println("Vamos a describir las funcionalidades de las clases");
 
 ## Resultado de la App  :eyes:
 
-![Vista de la App](images/Captura131.png)
+![Vista de la App](images/Captura131.PNG)
 
 <!--this an *italic* text-->
 
