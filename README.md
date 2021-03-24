@@ -54,7 +54,7 @@ System.out.println("Vamos a describir las funcionalidades de las clases");
 <!--Enlace-->
 [Saber más acerca de Java Swing](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html "Api de Java")
 
-hecho con :heart: por [albadevloping](https://github.com/albadevloping)
+With :heart: by [albadevloping](https://github.com/albadevloping)
 
 
 <!--
