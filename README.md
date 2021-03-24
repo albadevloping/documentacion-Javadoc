@@ -41,7 +41,7 @@ System.out.println("Vamos a describir las funcionalidades de las clases");
 ## Resultado de la App  :eyes:
 
 ![Vista de la App](Captura131.png "Vista de la App")
-<img src="Captura131.png" width="800" />
+
 
 <!--this an *italic* text-->
 
